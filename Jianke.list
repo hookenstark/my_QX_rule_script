@@ -1,0 +1,12 @@
+# NAME: Jianke
+# AUTHOR: hookenstark
+# REPO: 
+# UPDATED: 2026-02-03 00:00:00
+# HOST-SUFFIX: 2
+# IP-CIDR: 3
+# TOTAL: 5
+HOST-SUFFIX,jianke.com,Jianke
+HOST-SUFFIX,jianke-inc.,Jianke
+IP-CIDR,172.17.240.54/32,Jianke
+IP-CIDR,172.17.240.55/32,Jianke
+IP-CIDR,121.8.124.0/24,Jianke
